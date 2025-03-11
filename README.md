@@ -11,7 +11,7 @@ This SDK provides a set of primitive Go modules for developing AVSs on EigenLaye
 
 ## Installation
 ```
-go get github.com/Layr-Labs/eigensdk-go
+go install github.com/Layr-Labs/eigensdk-go
 ```
 
 ## Modules
